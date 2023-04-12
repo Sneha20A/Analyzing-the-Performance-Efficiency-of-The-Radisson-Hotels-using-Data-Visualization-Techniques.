@@ -11,3 +11,7 @@ Story public link - https://public.tableau.com/shared/HR47CX82F?:display_count=n
 
 
 Video demonstration link - https://drive.google.com/file/d/12Diu_nJ0IemKnkvhDfxpM_Kk4tu8oEuf/view?usp=drivesdk
+
+
+
+Web integration link - https://drive.google.com/drive/folders/1GudJiHsmuNVq8Y4pZgnq6QtX6AnpAxXl?usp=sharing
